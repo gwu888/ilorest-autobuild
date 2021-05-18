@@ -1,4 +1,4 @@
-# ilorest-autobuild.sh  -- An ilorest script to automatically mount ISO image and build server.
+# ilorest-autobuild.sh  -- An ilorest script to mount ISO image and build server.
 
 1) ilorest login to ilo5
 2) delete logical drive (existing mirror) on boot disks
